@@ -29,8 +29,6 @@ The goal of this project is to predict future stock prices based on historical d
 - `NSE-TATAGLOBAL.csv`: Contains historical stock prices for training.
 - `tatatest.csv`: Contains stock prices for testing the model.
 - `Predictor.py`: The main script for preprocessing, training the model, and predicting stock prices.
-- `.gitignore`: Specifies files and directories to be ignored by Git.
-
 ## Dependencies
 
 - NumPy
