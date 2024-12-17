@@ -1,4 +1,4 @@
-# Stock Price Prediction Using LSTM
+# 🚀🚀 Stock Price Prediction Using LSTM 🚀🚀
 
 This project predicts stock prices using a Long Short-Term Memory (LSTM) neural network. The dataset used is for TATA Global stock prices.
 
