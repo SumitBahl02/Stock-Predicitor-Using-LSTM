@@ -18,7 +18,7 @@ The goal of this project is to predict future stock prices based on historical d
    - Compile the model with the 'adam' optimizer and 'mean_squared_error' loss function.
    - Train the model on the training data.
 
-3. **Prediction:**
+3. **Predictior:**
    - Load the test dataset.
    - Prepare the input data for prediction.
    - Use the trained model to predict stock prices.
@@ -28,7 +28,7 @@ The goal of this project is to predict future stock prices based on historical d
 
 - `NSE-TATAGLOBAL.csv`: Contains historical stock prices for training.
 - `tatatest.csv`: Contains stock prices for testing the model.
-- `stock_prediction.py`: The main script for preprocessing, training the model, and predicting stock prices.
+- `Predictor.py`: The main script for preprocessing, training the model, and predicting stock prices.
 - `.gitignore`: Specifies files and directories to be ignored by Git.
 
 ## Dependencies
