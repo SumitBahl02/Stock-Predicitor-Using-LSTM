@@ -46,4 +46,4 @@ The goal of this project is to predict future stock prices based on historical d
 3. Run the `stock_prediction.py` script.
 
 ```bash
-python stock_prediction.py
+python Predictor.py
